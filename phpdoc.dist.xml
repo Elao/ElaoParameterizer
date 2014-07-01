@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phpdoc>
+
+    <title>Elao Parameterizer Component</title>
+
+    <files>
+        <directory>src/Elao/Parameterizer</directory>
+        <ignore>src/Elao/Parameterizer/Tests/*</ignore>
+    </files>
+
+    <parser>
+        <target>build/doc</target>
+    </parser>
+
+    <transformer>
+        <target>build/doc</target>
+    </transformer>
+
+    <transformations>
+        <template name="responsive" />
+    </transformations>
+
+</phpdoc>
