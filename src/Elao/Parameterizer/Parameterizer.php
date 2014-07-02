@@ -158,6 +158,7 @@ class Parameterizer
                 $pattern = $this->get($patternName);
                 $pattern->mergeValues($patternValues);
             } catch (\InvalidArgumentException $exception) {
+                // Nothing to do...
             }
         }
 

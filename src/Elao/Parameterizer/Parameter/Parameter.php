@@ -25,6 +25,13 @@ class Parameter
     protected $name;
 
     /**
+     * Inflector
+     *
+     * @var Inflector
+     */
+    protected $inflector;
+
+    /**
      * Value
      *
      * @var mixed

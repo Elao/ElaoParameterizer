@@ -255,6 +255,7 @@ class Pattern
                 $parameter = $this->get($parameterName);
                 $parameter->setValue($parameterValue);
             } catch (\InvalidArgumentException $exception) {
+                // Nothing to do...
             }
         }
 

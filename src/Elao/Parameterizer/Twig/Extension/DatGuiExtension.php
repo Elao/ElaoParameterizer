@@ -49,10 +49,10 @@ class DatGuiExtension extends \Twig_Extension
     public function getFunctions()
     {
         return array(
-            'elao_parameterizer_dat_gui_render_javascript' => new \Twig_Function_Method(
-                $this,
-                'renderJavascript',
-                array('is_safe' => array('html'))
+            new \Twig_SimpleFunction(
+                'elao_parameterizer_dat_gui_render_javascript',
+                array($this, 'renderJavascript'),
+                array('is_safe' => array('html')
             )
         );
     }
