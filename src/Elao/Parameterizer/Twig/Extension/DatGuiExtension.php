@@ -52,7 +52,7 @@ class DatGuiExtension extends \Twig_Extension
             new \Twig_SimpleFunction(
                 'elao_parameterizer_dat_gui_render_javascript',
                 array($this, 'renderJavascript'),
-                array('is_safe' => array('html')
+                array('is_safe' => array('html'))
             )
         );
     }
