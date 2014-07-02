@@ -1,9 +1,14 @@
 ElaoParameterizer
 =================
 
+[![Latest Stable Version](https://poser.pugx.org/elao/parameterizer/v/stable.svg)](https://packagist.org/packages/elao/parameterizer)
+[![Total Downloads](https://poser.pugx.org/elao/parameterizer/downloads.svg)](https://packagist.org/packages/elao/parameterizer)
+[![Latest Unstable Version](https://poser.pugx.org/elao/parameterizer/v/unstable.svg)](https://packagist.org/packages/elao/parameterizer)
+[![License](https://poser.pugx.org/elao/parameterizer/license.svg)](https://packagist.org/packages/elao/parameterizer)
+
 [![Build Status](https://travis-ci.org/Elao/ElaoParameterizer.svg?branch=master)](https://travis-ci.org/Elao/ElaoParameterizer)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Elao/ElaoParameterizer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Elao/ElaoParameterizer/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/Elao/ElaoParameterizer/badge.png)](https://coveralls.io/r/Elao/ElaoParameterizer)
+[![Code Coverage](https://scrutinizer-ci.com/g/Elao/ElaoParameterizer/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Elao/ElaoParameterizer/?branch=master)
 
 Description:
 ------------
