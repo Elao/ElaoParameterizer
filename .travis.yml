@@ -10,5 +10,5 @@ before_script:
     - composer install --dev
     - composer require satooshi/php-coveralls 0.6.*
 
- after_script:
-   - php vendor/bin/coveralls -v
+after_script:
+    - php vendor/bin/coveralls -v
