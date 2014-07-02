@@ -55,9 +55,16 @@ class DatGuiExtensionTest extends \PHPUnit_Framework_TestCase
             $this->createParameterizer('foo')
         );
 
-        $this->assertArrayHasKey(
+
+
+        $this->assertContains(
             'elao_parameterizer_dat_gui_render_javascript',
-            $extension->getFunctions()
+            array_map(
+                function($function) {
+                    return $function->getName();
+                },
+                $extension->getFunctions()
+            )
         );
     }
 
