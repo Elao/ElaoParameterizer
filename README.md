@@ -2,6 +2,7 @@ ElaoParameterizer
 =================
 
 [![Build Status](https://travis-ci.org/Elao/ElaoParameterizer.svg?branch=master)](https://travis-ci.org/Elao/ElaoParameterizer)
+[![Coverage Status](https://coveralls.io/repos/Elao/ElaoParameterizer/badge.png)](https://coveralls.io/r/Elao/ElaoParameterizer)
 
 Description:
 ------------
