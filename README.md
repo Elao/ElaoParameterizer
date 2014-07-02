@@ -1,7 +1,7 @@
 ElaoParameterizer
 =================
 
-[![Build Status](http://api.travis-ci.org/Elao/ElaoParameterizer.png)](http://travis-ci.org/Elao/ElaoParameterizer)
+[![Build Status](https://travis-ci.org/Elao/ElaoParameterizer.svg?branch=master)](https://travis-ci.org/Elao/ElaoParameterizer)
 
 Description:
 ------------
