@@ -15,7 +15,7 @@ Description:
 
 This component provides a set of classes to handle some service parameters in a structured way, and a twig [dat.GUI](http://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage) extension to set them with style.
 
-A symfony bundle also exists to simplify integration in your project.
+A symfony [ElaoParameterizerBundle](https://github.com/Elao/ElaoParameterizerBundle) also exists to simplify integration in your project.
 
 Installation:
 -------------
@@ -30,7 +30,7 @@ Add ElaoParameterizer in your composer.json:
 }
 ```
 
-Now tell composer to download the bundle by running the command:
+Now tell composer to download the library by running the command:
 
 ```
 $ php composer.phar update elao/parameterizer
